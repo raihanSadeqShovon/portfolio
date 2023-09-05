@@ -1,14 +1,9 @@
 /*
-Theme Name: Developer
-Theme URI: http://themewagon.com/demo/Developer/
-Author: ThemeWagon
-Author URI: http://themewagon.com/
+Theme Name: Portfolio
+Author: Raihan Sadeq
 Description: Slick One page HTML 5 template powered by Bootstrap 3.
-Version: 1.14.11
-License: GNU General Public License v3
-License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+Version: 1.1.1
 Tags: blue, white, one page, parallax, responsive-layout, full-width-template
-Text Domain: developer
 */
 
 /**
@@ -90,7 +85,7 @@ body {
 ///////////////////////////////////////////////////////////////////////*/
 
 #header {
-	background: url(../img/bg/header-bg.jpg) no-repeat center top fixed;
+	background: url(../img/bg/bg.jpeg) no-repeat center top fixed;
 	background-size: cover;
 }
 
